@@ -39,7 +39,5 @@ This project notebook focuses on developing and evaluating regression models for
 
 ---
 
-**Author:** [Your Name]  
-**Course:** MSCS 634  
-**Deliverable:** Project Deliverable 2
+
 
